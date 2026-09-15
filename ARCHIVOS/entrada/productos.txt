@@ -1,0 +1,10 @@
+P001;Producto1;20000
+P002;Producto2;20000
+P003;Producto3;100000
+P004;Producto4;30000
+P005;Producto5;60000
+P006;Producto6;80000
+P007;Producto7;40000
+P008;Producto8;100000
+P009;Producto9;80000
+P010;Producto10;50000
